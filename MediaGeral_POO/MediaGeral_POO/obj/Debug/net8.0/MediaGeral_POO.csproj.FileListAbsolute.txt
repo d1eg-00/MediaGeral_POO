@@ -1,0 +1,14 @@
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\bin\Debug\net8.0\MediaGeral_POO.exe
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\bin\Debug\net8.0\MediaGeral_POO.deps.json
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\bin\Debug\net8.0\MediaGeral_POO.runtimeconfig.json
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\bin\Debug\net8.0\MediaGeral_POO.dll
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\bin\Debug\net8.0\MediaGeral_POO.pdb
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\MediaGeral_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\MediaGeral_POO.AssemblyInfoInputs.cache
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\MediaGeral_POO.AssemblyInfo.cs
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\MediaGeral_POO.csproj.CoreCompileInputs.cache
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\MediaGeral_POO.dll
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\refint\MediaGeral_POO.dll
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\MediaGeral_POO.pdb
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\MediaGeral_POO.genruntimeconfig.cache
+C:\Users\diego.fernandes\Documents\MediaGeral_POO\MediaGeral_POO\obj\Debug\net8.0\ref\MediaGeral_POO.dll
